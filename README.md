@@ -6,6 +6,10 @@
 
 -CRUD we Create Post, Read Posts, Update Posts, Delete Posts
 
+-like and dislike the posts
+
+-follow and unfollow other users
+
 -Profile page for the user 
 
 -visit other users Profile Page
